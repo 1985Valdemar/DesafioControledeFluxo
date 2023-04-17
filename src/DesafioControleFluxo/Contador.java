@@ -2,12 +2,13 @@ package DesafioControleFluxo;
 
 import ParametroInvalidoException.ParametroInvalidoException;
 
+
 import java.util.Scanner;
 
 public class Contador {
+
     public static void main(String[] args) throws ParametroInvalidoException {
         Scanner terminal = new Scanner(System.in);
-
 
         try {
 
